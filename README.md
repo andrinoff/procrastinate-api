@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository was archived. It has been moved to [andrinoff/rather-cool-APIs](https://github.com/andrinoff/rather-cool-APIs)
+
 # Procrastinate API
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
